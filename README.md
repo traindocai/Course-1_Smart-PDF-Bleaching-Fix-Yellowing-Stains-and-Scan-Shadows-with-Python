@@ -37,9 +37,9 @@ This material is provided exclusively for students of **TrainDoc AI**.
 Link https://traindocai.com/
 
 **Attribution:**
-Parts of this code and educational content are adapted from the course **"Smart PDF Bleaching: Fix Yellowing, Stains, and Scan Shadows with Python"** by **TrainDoc AI**. All original rights to that content belong to the respective copyright holders.
+Parts of this code and educational content are adapted from the course **"Launching your AI Notebook"** by **TrainDoc AI**. All original rights to that content belong to the respective copyright holders.
 
-Link https://traindocai.com/courses-page/smart-pdf-bleaching-fix-yellowing-stains-and-scan-shadows-with-python/
+Link https://traindocai.com/courses-page/launching-your-ai-notebook/
 
 **Restrictions:**
 * **No Redistribution:** You may not redistribute, republish, or sell any part of this notebook.
