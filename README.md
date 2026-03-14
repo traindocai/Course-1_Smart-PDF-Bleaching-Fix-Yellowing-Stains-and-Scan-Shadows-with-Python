@@ -5,7 +5,7 @@
 
 ### Click the button below to access the notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repository/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/YOUR_NOTEBOOK.ipynb)
 
 > **IMPORTANT:** Once the notebook opens, go to **File > Save a copy in Drive**. If you do not save a copy, your progress and changes will not be saved to your personal account.
 
