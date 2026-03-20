@@ -1,5 +1,4 @@
-# Smart-PDF-Bleaching-Fix-Yellowing-Stains-and-Scan-Shadows-with-Python
-# Course 1: Launching your AI Notebook
+# Launching your AI Notebook
 
 ### 🚀 Get Started
 
